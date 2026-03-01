@@ -1,6 +1,6 @@
-# Linux-YT-video-player-Terminal
+# YouLinux
 ONLY YT VIDEO SUPPORT
 
-First, clone the repo `git clone https://github.com/uravgbiperson/Linux-YT-video-player-Terminal`
-Next, Cd into the repo by using `cd Linux-YT-video-player-Terminal`
+First, clone the repo `git clone https://github.com/uravgbiperson/YouLinux`
+Next, Cd into the repo by using `cd YouLinux`
 Finally, run using `python3 main.py (link of yt video)`
